@@ -4,6 +4,14 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### Documentation
+
+- Added Changelog
+
+### Features
+
+- Added shell.nix for nix-shell
+
 ### Miscellaneous Tasks
 
 - Added LICENSE.md
